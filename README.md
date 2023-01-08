@@ -5,7 +5,7 @@
 Switch to venkate search engine protect your privacy :)
 
 #IP to site : 34.207.86.99
-#Website URL :search.venkate.me
+#Website URL : www.search.venkate.me
 
  Users are neither tracked nor profiled.
 
