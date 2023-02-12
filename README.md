@@ -9,6 +9,6 @@ Switch to venkate search engine protect your privacy :)
 
  Users aren't neither tracked nor profiled.
 
-# Running on cloud (AWS) in ubuntu 
+# Running on ubuntu in AWS(Cloud)
 
 
